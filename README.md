@@ -1,20 +1,18 @@
 # Meteorjs image sharing socialapp
 
-## http://soundharya.info/
-
 This social media app was created to share the image with the friends and get the rating from them.
 
 The registered user features: 
 
--can login 
--share the image
--get rating from friends
--delete the required images
+*can login 
+*share the image
+*get rating from friends
+*delete the required images
 
 The anonymus user features:
 
--can view the images
--can give the rating.
+*can view the images
+*can give the rating.
 
 Meteor Packages used in this app are:
 
