@@ -16,19 +16,23 @@ The anonymus user features:
 
 Meteor Packages used in this app are:
 
-1)accounts-ui
+1. accounts-ui
 Simple templates to add login widgets to an app
 
 To add this package,type the below given comment in console inside the project directory
 
-"meteor add accounts-ui"
+```
+meteor add accounts-ui
+```
 
-2)barbatus:stars-rating
+2. barbatus:stars-rating
 Stars rating control
 
 To add this package,type the below given comment in console inside the project directory
 
-"meteor add barbatus:stars-rating"
+```
+meteor add barbatus:stars-rating
+```
 
 Some of the screenshots of the app is given below:
 
